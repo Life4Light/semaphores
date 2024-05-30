@@ -1,0 +1,14 @@
+/home/lifelight/os/semaphores/semaphore/bin/Debug/net8.0/semaphore
+/home/lifelight/os/semaphores/semaphore/bin/Debug/net8.0/semaphore.deps.json
+/home/lifelight/os/semaphores/semaphore/bin/Debug/net8.0/semaphore.runtimeconfig.json
+/home/lifelight/os/semaphores/semaphore/bin/Debug/net8.0/semaphore.dll
+/home/lifelight/os/semaphores/semaphore/bin/Debug/net8.0/semaphore.pdb
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/semaphore.GeneratedMSBuildEditorConfig.editorconfig
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/semaphore.AssemblyInfoInputs.cache
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/semaphore.AssemblyInfo.cs
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/semaphore.csproj.CoreCompileInputs.cache
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/semaphore.dll
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/refint/semaphore.dll
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/semaphore.pdb
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/semaphore.genruntimeconfig.cache
+/home/lifelight/os/semaphores/semaphore/obj/Debug/net8.0/ref/semaphore.dll
